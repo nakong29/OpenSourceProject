@@ -161,7 +161,7 @@ for i in range(len(poop)):
     recPoop[i].y = -1
 
 #fruit 생성
-fruit = [pygame.image.load('fruit.png') for i in range(5)]
+fruit = [pygame.image.load('fruit.png') for i in range(7)]
 recFruit = [None for i in range(len(fruit))]
 for i in range(len(fruit)):
     fruit[i] = pygame.transform.scale(fruit[i],(20, 20))
