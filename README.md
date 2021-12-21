@@ -29,4 +29,4 @@ Esc를 누르면 게임이 종료된다.
 코딩나우: https://youtu.be/EgokYdMvqQ0
 
 ### -라이선스-
-his project is licensed under the terms of the MIT license.
+This project is licensed under the terms of the MIT license.
